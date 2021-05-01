@@ -9,7 +9,6 @@ cmdargs = str(sys.argv)
 print ("INPUT: %s" % str(sys.argv[1]))
 print ("OUTPUT: %s" % str(sys.argv[2]))
 
-#fname = input("Enter file name: ")
 fname = str(sys.argv[1])
 data = csv.reader(open(fname), delimiter = ',')
 #Skip the headers 
