@@ -1,5 +1,6 @@
 Program by Hailey Gruszynski for Imbeded Systems 2021
 
+[![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 
 Just throw your .csv files from the sdcard into the input folder and run bulkconvert.sh
 
