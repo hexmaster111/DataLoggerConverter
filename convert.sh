@@ -1,5 +1,5 @@
 #!/bin/bash
 for file in *.csv
 do
-  ./converter.py "$file" "${file}.csv"
+  python3 ./converter.py "$file" "${file}.kml"
 done
