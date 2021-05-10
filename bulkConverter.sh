@@ -7,8 +7,3 @@ for file in *.csv
 do
   python3 ./../converter.py "$file" "../Output/${file}.kml"
 done
-
-for file in *.txt
-do
-  python3 ./../converter.py "$file" "../Output/${file}.kml"
-done
